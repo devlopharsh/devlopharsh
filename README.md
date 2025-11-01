@@ -6,9 +6,7 @@
 <h3 align="center">🚀 Full Stack Developer | 🎨 UI/UX Designer | 🎤 Orator | 💡 Creative Technologist</h3>
 
 <p align="center">
-  <a href="https://github.com/devlopharsh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=00F0FF&width=600&lines=Turning+Ideas+Into+Experiences+💻;Designing+Emotion-Driven+Interfaces+🎨;Crafting+Scalable+MERN+Apps+⚙️;Hosting+Events+%26+Inspiring+Crowds+🎤" alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=00F0FF&width=600&lines=Turning+Ideas+Into+Experiences+💻;Designing+Emotion-Driven+Interfaces+🎨;Crafting+Scalable+MERN+Apps+⚙️;Hosting+Events+%26+Inspiring+Crowds+🎤" alt="Typing Animation" />
 </p>
 
 ---
@@ -88,7 +86,7 @@ Figma • Git • Vercel • Render • Firebase • Postman • Razorpay • Au
 ### 🧠 LeetCode Grind
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/devlopharsh?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
