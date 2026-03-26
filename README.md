@@ -6,9 +6,8 @@
 <h3 align="center">🚀 Full Stack Developer | 🎨 UI/UX Designer | 🎤 Orator | 💡 Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Experiences+💻;Designing+Emotion-Driven+Interfaces+🎨;Crafting+Scalable+MERN+Apps+⚙️;Hosting+Events+%26+Inspiring+Crowds+🎤" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Experiences+💻;Designing+Emotion-Driven+Interfaces+🎨;Crafting+Scalable+MERN+Apps+⚙️;Building+Robust+Backends+with+Spring+Boot+☕;Hosting+Events+%26+Inspiring+Crowds+🎤" alt="Typing SVG" />
 </p>
-
 
 ---
 
@@ -16,7 +15,7 @@
 I’m a **Full Stack Developer** and **UI/UX Designer** who believes technology and design can inspire change.  
 Alongside code, I’m also an **experienced orator**, having hosted events and delivered talks that captivate and connect.  
 
-- 💻 Building next-gen web apps with **MERN Stack**
+- 💻 Building next-gen web apps with **MERN Stack & Spring Boot**
 - 🎨 Designing smooth, minimal, and emotion-driven interfaces
 - 🎤 Award-winning **public speaker** (🏆 3+ regional awards)
 - 🚀 Always exploring futuristic UI — from 3D holograms to motion design
@@ -29,7 +28,7 @@ Alongside code, I’m also an **experienced orator**, having hosted events and d
 React • Next.js • Tailwind CSS • Framer Motion • Redux • JavaScript • HTML • CSS  
 
 #### ⚙️ Backend
-Node.js • Express.js • MongoDB • REST APIs • JWT • Socket.io  
+Node.js • Express.js • **Spring Boot** • **Java** • MongoDB • REST APIs • JWT • Socket.io • **Apache Thrift**  
 
 #### 🧪 Tools & Platforms
 Figma • Git • Vercel • Render • Firebase • Postman • Razorpay • Auth0  
@@ -89,7 +88,6 @@ Figma • Git • Vercel • Render • Firebase • Postman • Razorpay • Au
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Code_Thunder?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </p>
-
 
 ---
 
